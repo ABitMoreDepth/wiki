@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2020-06-01T00:23:27.148Z
+date: 2020-06-01T00:33:25.681Z
 tags: about
 ---
 
@@ -12,4 +12,4 @@ Here, we plan to explore a range of topics, in a range of formats, from the chao
 
 Here's hoping you find something of interest!
 
-![homepage-img.jpg](/homepage-img.jpg)
+![homepage-img.jpg](/static/homepage-img.jpg)
