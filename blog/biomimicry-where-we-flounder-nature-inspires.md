@@ -2,7 +2,7 @@
 title: Can nature provide answers to our sustainability problems?
 description: 
 published: true
-date: 2020-06-01T00:55:44.033Z
+date: 2020-06-01T00:56:28.725Z
 tags: biomimicry, blog
 ---
 
@@ -66,9 +66,9 @@ Coming soon to subscribers: Is biomimicry an industry worth investing in? Can it
 
 Subscribe to get the update as soon as it’s released.
 
-The research for this article was heavily supported by the fantastic tool ![AskNature](https://asknature.org/), go give it whirl.
+The research for this article was heavily supported by the fantastic tool [AskNature](https://asknature.org/), go give it whirl.
 
-Go watch Janine Benyus in her ![inspiring TED talk](https://www.youtube.com/watch?v=k_GFq12w5WU).
+Go watch Janine Benyus in her [inspiring TED talk](https://www.youtube.com/watch?v=k_GFq12w5WU).
 
 --------------------------------------------------------------------------------
 
