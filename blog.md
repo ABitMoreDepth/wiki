@@ -2,7 +2,7 @@
 title: Blog
 description: Longer form entries
 published: true
-date: 2020-06-01T00:58:33.350Z
+date: 2020-06-01T00:58:41.601Z
 tags: blog
 ---
 
