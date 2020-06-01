@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:012d99d7557018df515f7b0f575d7ee73803736c15c4e491d26ae902491b5dd5
-size 435
+---
+title: Home
+description: 
+published: true
+date: 2020-06-01T00:23:27.148Z
+tags: about
+---
+
+Welcome to A Bit More Depth,
+
+Here, we plan to explore a range of topics, in a range of formats, from the chaotic fragments of thought in knowledge base format, to lengthy writings on a range of topics, A Bit More Depth hopes to catalog and provide access to a range of data &amp; information.
+
+Here's hoping you find something of interest!
+
+![homepage-img.jpg](/homepage-img.jpg)
